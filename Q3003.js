@@ -13,6 +13,7 @@ const input = fs
   .trim()
   .split(' ')
   .map(Number);
+// const input = fs.readFileSync('/dev/stdin').toString().split(' ');
 
 const arr = [1, 1, 2, 2, 2, 8];
 
