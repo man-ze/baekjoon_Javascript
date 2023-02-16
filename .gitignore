@@ -1,1 +1,3 @@
-*.txt*.txt, .md
+*.txt*.txt, .md*.txt 
+
+*.md
